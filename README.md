@@ -1,3 +1,3 @@
-This is my firt website :)
+This is my first website :)
 
 My name is Jasmin!
